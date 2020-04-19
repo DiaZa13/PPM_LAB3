@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LAB_3</string>
+    <string name="app_name">CORONAVIRUS</string>
     <string name="btnVirus">VIRUS</string>
     <string name="btnSintomas">SÍNTOMAS</string>
     <string name="btnIndicaciones">INDICACIONES</string>
@@ -9,5 +9,5 @@
     <string name="tittle1">VIRUS</string>
     <string name="tittle2">SÍNTOMAS</string>
     <string name="tittle3">INDICACIONES</string>
-    <string name="btnComentario">Comentario</string>
+    <string name="btnComentario">Comentar</string>
 </resources>

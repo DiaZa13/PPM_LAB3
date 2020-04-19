@@ -71,7 +71,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/lblTittle"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@mipmap/Image4" />
+        app:srcCompat="@mipmap/image4" />
 
     <EditText
         android:id="@+id/txtComentario"
@@ -80,15 +80,15 @@
         android:layout_marginBottom="68dp"
         android:ems="10"
         android:fontFamily="@font/roboto_thin"
+        android:hint="Comentario"
         android:inputType="textPersonName"
-        android:text="Comentario"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.533"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnComentar"
         android:layout_width="109dp"
         android:layout_height="45dp"
         android:layout_marginEnd="16dp"
