@@ -6,8 +6,6 @@
     <string name="lblInformacion">Los coronavirus (CoV) son una amplia familia de virus que pueden causar diversas afecciones, desde el resfriado común hasta enfermedades más graves.
         Esas infecciones suelen cursar con fiebre y síntomas respiratorios (tos y disnea o dificultad para respirar). En los casos más graves, pueden causar neumonía, síndrome respiratorio agudo severo, insuficiencia renal e, incluso, la muerte.\n
         \nLas recomendaciones habituales para no propagar la infección son la buena higiene de manos y respiratoria (cubrirse la boca y la nariz al toser y estornudar) y la cocción completa de la carne y los huevos. Asimismo, se debe evitar el contacto estrecho con cualquier persona que presente signos de afección respiratoria, como tos o estornudos.</string>
-    <string name="tittle1">VIRUS</string>
-    <string name="tittle2">SÍNTOMAS</string>
-    <string name="tittle3">INDICACIONES</string>
     <string name="btnComentario">Comentar</string>
+
 </resources>
